@@ -10,4 +10,4 @@ This project scrapes the cause list of district courts, saves the data as CSV an
 
 ## Notes
 - Works with Chrome version 109.
-- Tested on Windows 7 with D: drive setup.
+- Tested on Windows 7 with E: drive setup.
