@@ -1,0 +1,4 @@
+selenium==4.9.1
+beautifulsoup4==4.12.2
+pandas==2.1.1
+fpdf==1.7.2
